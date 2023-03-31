@@ -1,6 +1,6 @@
 Name:		texlive-decorule
 Version:	55230
-Release:	1
+Release:	2
 Summary:	Decorative swelled rule using font character
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/decorule
