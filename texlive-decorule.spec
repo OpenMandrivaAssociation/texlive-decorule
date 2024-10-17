@@ -3,7 +3,7 @@ Version:	55230
 Release:	2
 Summary:	Decorative swelled rule using font character
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/decorule
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/decorule
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/decorule.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/decorule.doc.r%{version}.tar.xz
